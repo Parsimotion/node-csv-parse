@@ -39,7 +39,7 @@
     "csv-generate": "~2.0.0",
     "csv-spectrum": "~1.0.0",
     "each": "~0.6.1",
-    "mocha": "~4.0.1",
+    "mocha": "~10.2.0",
     "should": "~13.1.2"
   },
   "optionalDependencies": {},
